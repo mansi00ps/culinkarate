@@ -1,2 +1,2 @@
 # culinkarate
-Prototypr for Culin Karate
+Prototype for Culin Karate
