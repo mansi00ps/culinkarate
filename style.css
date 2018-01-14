@@ -41,7 +41,7 @@ body, html {
 /*slide height*/
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-  min-height: 500px;    /* Set slide height here */
+  max-height: 500px;    /* Set slide height here */
 
 }
 
