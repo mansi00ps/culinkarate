@@ -34,8 +34,8 @@ body, html {
 }
 
 .carousel-inner .item > img {
-  -webkit-animation: zoom 20s;
-  animation: zoom 20s;
+  -webkit-animation: zoom 5s;
+  animation: zoom 5s;
 }    
 
 /* W3.CSS 4.08 January 2018 by Jan Egil and Borge Refsnes */
