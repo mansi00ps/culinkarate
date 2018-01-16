@@ -68,6 +68,17 @@ body, html {
 
 }*/
 
+/* review stars
+.reviewStars {
+    padding-bottom: 15px;
+    font-style: normal;
+    font-size: 30px;
+    color: #fcc485;
+    display: block;
+    margin: 30px auto 10px auto;
+    text-align: center;
+}
+
 /* W3.CSS 4.08 January 2018 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
