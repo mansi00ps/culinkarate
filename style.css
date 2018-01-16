@@ -15,6 +15,18 @@ body, html {
 .w3-bar .w3-button {
     padding: 16px;
 }
+
+/* carousel css*/
+.carousel,
+.item,
+.active {
+    height: 100%;
+    margin-bottom: 60px;
+}
+
+.carousel-inner {
+    height: 100%;
+}
 @-webkit-keyframes zoom {
   from {
     -webkit-transform: scale(1, 1);
