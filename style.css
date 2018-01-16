@@ -21,7 +21,7 @@ body, html {
 .item,
 .active {
     height: 100%;
-    margin-bottom: 60px;
+   /* margin-bottom: 60px;*/
 }
 
 .carousel-inner {
