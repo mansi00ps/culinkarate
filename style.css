@@ -73,10 +73,10 @@ body, html {
     padding-bottom: 15px;
     font-style: normal;
     font-size: 30px;
-    color: #fcc485;
+    color: #fcc485; !important
     display: block;
     margin: 30px auto 10px auto;
-    text-align: center;
+    text-align: center; !important
 }
 
 /* W3.CSS 4.08 January 2018 by Jan Egil and Borge Refsnes */
