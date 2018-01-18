@@ -408,8 +408,8 @@ Cedar Park, Tx 78613</p>
     </div>
     <div class="w3-half">
       <!-- Add Google Maps -->
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.6396191091076!2d-97.82269408521768!3d30.502947881717805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865b2d0cf9008ce9%3A0x4d3705a03d2def50!2sCulin+Karate+Center+Ltd.!5e0!3m2!1sen!2sus!4v1516236764125" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
-      <!--div id="googleMap" class="w3-greyscale-max" style="width:100%;height:510px;"></div-->
+     <!--iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.6396191091076!2d-97.82269408521768!3d30.502947881717805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865b2d0cf9008ce9%3A0x4d3705a03d2def50!2sCulin+Karate+Center+Ltd.!5e0!3m2!1sen!2sus!4v1516236764125" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe-->
+      <div id="googleMap" class="w3-greyscale-max" style="width:100%;height:510px;"></div>
     </div>
   </div>
 </div>
@@ -430,7 +430,7 @@ Cedar Park, Tx 78613</p>
  
 <!-- Add Google Maps -->
 <script>
-/*function myMap()
+function myMap()
 {
   myCenter=new google.maps.LatLng(30.5026545,-97.8234992);
   var mapOptions= {
@@ -444,7 +444,7 @@ Cedar Park, Tx 78613</p>
     position: myCenter,
   });
   marker.setMap(map);
-}*/
+}
 
 // Modal Image Gallery
 function onClick(element) {
@@ -471,7 +471,7 @@ function w3_close() {
     mySidebar.style.display = "none";
 }
 </script>
-<!--script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script-->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBstgOnZpuaUvdbFLgl-yeyClSk8hw_5FY&callback=myMap"></script>
 <!--
 To use this code on your website, get a free API key from Google.
 Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
