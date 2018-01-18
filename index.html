@@ -435,14 +435,8 @@ function myMap()
   myCenter=new google.maps.LatLng(30.502948,-97.820505);
   var mapOptions= {
     center:myCenter,
-    styles: [{
-        featureType: 'all',
-        elementType: 'labels',
-        stylers: [{
-            visibility: 'on'
-        }]
-    }],
-    zoom:13, scrollwheel: false, draggable: false,
+    
+    zoom:13, 
     mapTypeId:google.maps.MapTypeId.ROADMAP
   };
   var map=new google.maps.Map(document.getElementById("googleMap"),mapOptions);
