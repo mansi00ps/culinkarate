@@ -436,18 +436,7 @@ function myMap()
   var mapOptions= {
     center:myCenter,
     zoom:19, 
-   styles:[{
-    "featureType": "all",
-    "stylers": [
-      { "color": "#C0C0C0" }
-    ]
-  },{
-    "featureType": "road.arterial",
-    "elementType": "geometry",
-    "stylers": [
-      { "color": "#CCFFFF" }
-    ]
-  }],
+   
     mapTypeId:google.maps.MapTypeId.ROADMAP
   };
   var map=new google.maps.Map(document.getElementById("googleMap"),mapOptions);
