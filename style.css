@@ -139,6 +139,11 @@ a {
     text-decoration: none !important;
 }
 
+/* sidebar for social media */
+.mediabar{
+    height:100%;width:20px;background-color:transparent;position:fixed!important;z-index:1;overflow:auto
+}
+
 /* W3.CSS 4.08 January 2018 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
