@@ -141,7 +141,7 @@ a {
 
 /* sidebar for social media */
 .mediabar{
-    height:100%;width:100pxpx;background-color:transparent;position:fixed!important;vertical-align:middle;z-index:1;overflow:auto
+    height:100%;width:100px;background-color:transparent;position:fixed!important;vertical-align:middle;z-index:1;overflow:auto
 }
 
 /* W3.CSS 4.08 January 2018 by Jan Egil and Borge Refsnes */
