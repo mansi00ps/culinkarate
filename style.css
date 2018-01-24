@@ -117,6 +117,20 @@ body, html {
     text-decoration:none !important; 
 }
 
+/* remove text-decoration*/
+a:link {
+text-decoration: none;
+border-bottom: none;
+-webkit-box-shadow: none;
+box-shadow: none;
+
+}
+ a:visited {
+text-decoration: none;
+border-bottom: none;
+-webkit-box-shadow: none;
+box-shadow: none;
+}
 
 /* W3.CSS 4.08 January 2018 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
