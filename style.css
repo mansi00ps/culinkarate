@@ -117,7 +117,7 @@ body, html {
 }
 
 /* remove text-decoration*/
-a:link {
+/*a:link {
 text-decoration: none;
 border-bottom: none;
 -webkit-box-shadow: none;
@@ -133,7 +133,7 @@ box-shadow: none;
 
 a {
   text-decoration: none;
-}
+}*/
 
 .removelinkdefault {
     text-decoration: none !important;
