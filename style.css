@@ -140,11 +140,11 @@ a {
 }
 
 /* sidebar for social media */
-.social {
+/*.social {
   width: 200px;
   height: 220px;
   position: fixed;
-  margin-top: 170px;
+  margin-top: 170px;*/
   /*perspective: 1000px*/
 }
 
@@ -163,6 +163,20 @@ a {
   text-decoration: none;
   text-align: center;
   transition: background .5s ease .300ms
+}
+
+.sticky-container{
+    width: 200px;
+  height: 220px;
+  position: fixed;
+  margin-top: 170px;
+    		left: -119px;
+		top:130px;
+		width: 200px;
+}
+
+.social{
+    list-style-type: none;
 }
 
 .social li:first-child a{ background: #3b5998 }
