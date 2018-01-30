@@ -145,9 +145,10 @@ a {
   height: 220px;
   position: fixed;
   margin-top: 170px;
-	left:-10px;
-	list-style: none;
-	z-index:10;
+  /*left:-10px;*/
+  float:left;
+  list-style: none;
+  z-index:10;
   /*perspective: 1000px*/
 }
 .social li a {
