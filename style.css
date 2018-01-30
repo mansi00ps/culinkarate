@@ -147,7 +147,8 @@ a {
   margin-top: 170px;
   top:50px;
   /*left:-10px;*/
-  float:left;
+  /*float:left;*/
+    right: -119px;
   /*float:right;*/
   list-style: none;
   z-index:10;
