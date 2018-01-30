@@ -169,10 +169,11 @@ a {
     width: 200px;
   height: 220px;
   position: fixed;
-  margin-top: 170px;
-    		left: -119px;
-		top:130px;
-		width: 200px;
+  /*margin-top: 170px;*/
+  /*left: -119px;*/
+  top:130px;
+  width: 200px;
+  z-index:10;	
 }
 
 .social{
