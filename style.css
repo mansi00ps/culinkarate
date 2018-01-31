@@ -148,7 +148,7 @@ a {
   top:50px;
   /*left:-10px;*/
   /*float:left;*/
-  right: -158px;
+  right: -159px;
   float:right;
   list-style: none;
   z-index:10;
@@ -189,11 +189,11 @@ a {
   width: 100px;
   /*float: left;*/
   float: right;
-  right: -150px;
+  right: -175px;
   text-align: center;
   /*background: #222;*/
   color: #fff;
-  margin: -28px 45px;
+  margin: -28px 60px;
   padding: 8px;
   /*transform-origin:-100px;/* 0;*/
   visibility: hidden;
