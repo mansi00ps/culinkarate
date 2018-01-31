@@ -169,11 +169,11 @@ a {
   padding: 10px;
   text-decoration: none;
   text-align: center;
-  /*transition: background .5s ease .300ms*/
+  transition: background .5s ease .300ms;
     -webkit-transition:all 0.25s ease-in-out;
     -moz-transition:all 0.25s ease-in-out;
     -o-transition:all 0.25s ease-in-out;
-    transition:all 0.25s ease-in-out;
+    /*transition:all 0.25s ease-in-out;*/
 }
 .social li:first-child a{ background: #3b5998 }
 .social li:nth-child(2) a { background: #00acee }
