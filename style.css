@@ -201,10 +201,10 @@ a {
   /*transform: rotateY(-45deg);*/
   border-radius: 5px;
   /*transition: background .5s ease .300ms*/
-      -webkit-transition:background 0.25s ease-in-out;
+      -webkit-transition:background 1s ease-in-out;
     -moz-transition:background 0.25s ease-in-out;
     -o-transition:background 0.25s ease-in-out;
-   transition:background 0.25s ease-in-out;
+   transition:background 1s ease-in-out;
     cursor:pointer;
 }
 .social li:first-child a span {
