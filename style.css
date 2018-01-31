@@ -170,10 +170,11 @@ a {
   text-decoration: none;
   text-align: center;
   /*transition: background .5s ease .300ms;*/
-   /* -webkit-transition:all 0.25s ease-in-out;
+    -webkit-transition:all 0.25s ease-in-out;
     -moz-transition:all 0.25s ease-in-out;
     -o-transition:all 0.25s ease-in-out;
-    transition:all 0.25s ease-in-out;*/
+    transition:all 0.25s ease-in-out;
+    cursor:pointer;
 }
 .social li:first-child a{ background: #3b5998 }
 .social li:nth-child(2) a { background: #00acee }
@@ -204,6 +205,7 @@ a {
     -moz-transition:background 0.25s ease-in-out;
     -o-transition:background 0.25s ease-in-out;
    transition:background 0.25s ease-in-out;
+    cursor:pointer;
 }
 .social li:first-child a span {
   background: #3b5998 }
