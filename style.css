@@ -145,10 +145,10 @@ a {
   height: 220px;
   position: fixed;
   margin-top: 170px;
-  top:50px;
+  top:100px;
   /*left:-10px;*/
   /*float:left;*/
-  right: -159px;
+  right: -160px;
   float:right;
   list-style: none;
   z-index:10;
