@@ -212,7 +212,7 @@ a {
   visibility: visible;
   opacity: 1;
     margin-left:-145px;
-  /*transform: rotateY(0)*/
+    transform: rotateY(0)
 }
 ul {
    list-style: none;
