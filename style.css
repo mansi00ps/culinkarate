@@ -168,6 +168,13 @@ a {
   text-align: center;
 }
 
+.phoneSticky li a:hover {
+  background: MidnightBlue  ;	
+}
+.phoneSticky li a:active { 
+  background-color: RoyalBlue;
+}
+
 /* sidebar for social media */
 .social {
   width: 200px;
