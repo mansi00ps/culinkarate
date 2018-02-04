@@ -177,9 +177,9 @@ a {
 /*.phoneSticky li a:visited {
   background: MidnightBlue  ;	
 }*/
-.phoneSticky li a:link {
+/*.phoneSticky li a:link {
   background: MidnightBlue  ;	
-}
+}*/
 .phoneSticky li a:active { 
   background-color: RoyalBlue;
 }
