@@ -171,6 +171,12 @@ a {
 .phoneSticky li a:hover {
   background: MidnightBlue  ;	
 }
+.phoneSticky li a:visited {
+  background: MidnightBlue  ;	
+}
+.phoneSticky li a:link {
+  background: MidnightBlue  ;	
+}
 .phoneSticky li a:active { 
   background-color: RoyalBlue;
 }
