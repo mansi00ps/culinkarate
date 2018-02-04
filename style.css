@@ -154,8 +154,8 @@ a {
 			
 .phoneSticky li a {
   display: block;
-  height: 100px;
-  width: 100px;
+  height: 60px;
+  width: 60px;
   background: green;
   border-radius: 55px;
   font: normal normal normal
@@ -163,7 +163,7 @@ a {
   'FontAwesome', 'Source Sans Pro', Helvetica, Arial, sans-serif;
   color: #fff;
   -webkit-font-smoothing: antialiased;
-  padding: 23px ;
+  padding: 15px ;
   text-decoration: none;
   text-align: center;
 }
