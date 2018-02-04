@@ -139,6 +139,35 @@ a {
     text-decoration: none !important;
 }
 
+/*phone sticky for small/medium screens only*/
+			
+.phoneSticky{
+ width:200px;
+ height:220px;
+ position:fixed;
+ z-index:100;
+ list-style: none;
+ float: right;
+ right:-5em;
+ bottom: -6.5em;
+}
+			
+.phoneSticky li a {
+  display: block;
+  height: 100px;
+  width: 100px;
+  background: green;
+  border-radius: 55px;
+  font: normal normal normal
+  16px/20px 
+  'FontAwesome', 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  padding: 23px ;
+  text-decoration: none;
+  text-align: center;
+}
+
 /* sidebar for social media */
 .social {
   width: 200px;
