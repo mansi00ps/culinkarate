@@ -168,6 +168,9 @@ a {
   text-align: center;
 }
 
+.phoneSticky li a {
+  background: green  ;	
+}
 .phoneSticky li a:hover {
   background: MidnightBlue  ;	
 }
