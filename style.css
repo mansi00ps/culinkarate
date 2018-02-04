@@ -174,9 +174,9 @@ a {
 .phoneSticky li a:hover {
   background: MidnightBlue  ;	
 }
-.phoneSticky li a:visited {
+/*.phoneSticky li a:visited {
   background: MidnightBlue  ;	
-}
+}*/
 .phoneSticky li a:link {
   background: MidnightBlue  ;	
 }
