@@ -1,3 +1,9 @@
+//load nav.html in the placeholder
+$(function(){
+  $("#nav-placeholder").load("nav.html");
+});
+
+
 function myMap()
 {
   myCenter=new google.maps.LatLng(30.502948,-97.820505);
