@@ -20,6 +20,11 @@ body, html {
     height: 11em;
     vertical-align: middle;	
 }
+
+.white-text{
+	color:white;
+}
+
 .w3-bar .w3-button {
     padding: 16px;
 }
