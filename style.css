@@ -164,6 +164,9 @@ a {
  float: right;
  right:-9.25em;
  bottom: -11.5em;
+	list-style: none;
+   margin: 0;
+   padding: 0;
 }
 			
 .phoneSticky li a {
@@ -207,6 +210,9 @@ a {
   /*left:-10px;*/
   list-style: none;
   z-index:1;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 .social li a {
   display: block;
