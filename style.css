@@ -15,9 +15,9 @@ body, html {
 
 .bgimg-birthday{
 	    background-position: center;
-    background-size: cover;
-    background-image: url("https://user-images.githubusercontent.com/31809707/35821879-1b219d80-0a70-11e8-9e8d-24961e7ddac0.jpg");
-    min-height: 100%;
+        background-image: url("https://user-images.githubusercontent.com/31809707/35944636-bbbd7c1a-0c22-11e8-926d-0d3a7374ed3b.jpg");
+    height: 10em;
+    width:100%em;	
     	
 }
 
