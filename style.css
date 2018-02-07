@@ -164,10 +164,7 @@ a {
  float: right;
  right:-9.25em;
  bottom: -11.5em;
-	list-style: none;
-   margin: 0;
-   padding: 0;
-}
+	}
 			
 .phoneSticky li a {
   display: block;
@@ -210,9 +207,6 @@ a {
   /*left:-10px;*/
   list-style: none;
   z-index:1;
-  list-style: none;
-  margin: 0;
-  padding: 0;
 }
 .social li a {
   display: block;
@@ -278,11 +272,11 @@ a {
   opacity: 1;
   transform: rotateY(0)
 }
-/*ul {
+ul {
    list-style: none;
    margin: 0;
    padding: 0;
-}*/
+}
 
 /* W3.CSS 4.08 January 2018 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
