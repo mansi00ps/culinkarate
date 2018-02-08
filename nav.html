@@ -9,7 +9,7 @@
      <a href="#contact" class="removelinkdefault w3-button w3-bar-item w3-light-blue w3-padding-large telloc"><i class="fa fa-phone-square" aria-hidden="true"></i> (512) 680-3300</a>
    </div>
       <!-- Right-sided navbar links -->
-    <div class="w3-right w3-hide-small">
+    <!--div class="w3-right w3-hide-small">
       <a href="#about" class="removelinkdefault w3-bar-item w3-button">ABOUT</a>
       <a href="#team" class="removelinkdefault w3-bar-item w3-button">TEAM</a>
       <a href="#documents" class="removelinkdefault w3-bar-item w3-button">DOCUMENTS</a>
@@ -17,24 +17,25 @@
       <a href="#reviews" class="removelinkdefault w3-bar-item w3-button">REVIEWS</a>
       <a href="#pricing" class="removelinkdefault w3-bar-item w3-button">PRICING</a>
       <a href="#contact" class="removelinkdefault w3-bar-item w3-button">CONTACT</a>
-   <!--<i class="fa fa-user"></i>
+   
+     
+    </div-->
+    <!--<i class="fa fa-user"></i>
      <i class="fa fa-book"></i>
      <i class="fa fa-calendar-alt"></i> 
      <i class="fa fa-star"></i> 
      <i class="fa fa-usd"></i> 
      <i class="fa fa-envelope"></i> -->
-     
-    </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
-    <a href="javascript:void(0)" class="w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+    <!--a href="javascript:void(0)" class="w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
       <i class="fa fa-bars"></i>
-    </a>
+    </a-->
   </div>
 </div>
 
 <!-- Sidebar on small screens when clicking the menu icon -->
-<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
+<!--nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
   <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">ABOUT</a>
   <a href="#team" onclick="w3_close()" class="w3-bar-item w3-button">TEAM</a>
@@ -43,7 +44,7 @@
   <a href="#reviews" onclick="w3_close()" class="w3-bar-item w3-button">REVIEWS</a>
   <a href="#pricing" onclick="w3_close()" class="w3-bar-item w3-button">PRICING</a>
   <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button">CONTACT</a>
-</nav>
+</nav-->
  
   <!--Phone sticky at the bottom for small/medium screens only-->
  <div class="w3-hide-large">
@@ -81,21 +82,4 @@
     </li>
 
   </ul>
-
-<!--script src="https://mansi00ps.github.io/culinkarate/custom.js"></script-->
-// Toggle between showing and hiding the sidebar when clicking the menu icon
-var mySidebar = document.getElementById("mySidebar");
-
-function w3_open() {
-    if (mySidebar.style.display === 'block') {
-        mySidebar.style.display = 'none';
-    } else {
-        mySidebar.style.display = 'block';
-    }
-}
-
-// Close the sidebar with the close button
-function w3_close() {
-    mySidebar.style.display = "none";
-}
 
