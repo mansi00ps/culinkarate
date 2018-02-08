@@ -1,7 +1,7 @@
 //load nav.html in the placeholder
-/*$(function(){
+$(function(){
   $("#nav-placeholder").load("nav.html");
-});*/
+});
 
 
 function myMap()
